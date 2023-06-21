@@ -1,6 +1,8 @@
 # tic_tac
 
 A new Flutter project.
+![photo_2023-06-21_13-54-24](https://github.com/anissiam/tic_tac_toe_flutter/assets/18183645/e889baff-c557-47e8-baf0-8f6cc3598d2a)
+__________________________________________________________________________________________
 
 ## Getting Started
 
